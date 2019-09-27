@@ -65,7 +65,7 @@
       <h1>Coming Soon</h1>
       <p>
         We are preparing something amazing.
-        Make sure to be back on September!
+        Make sure to be back on October!
       </p>
     </div>
   </div>
